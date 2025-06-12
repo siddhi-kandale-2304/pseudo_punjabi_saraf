@@ -25,7 +25,7 @@ A modern, responsive jewelry website for **Punjabi Saraf**, built using HTML, CS
 
 ## 📸 Screenshots
 
-> _Include screenshots here (optional):_
+
 - Desktop view
 - Mobile view with hamburger menu
 - Slider section
